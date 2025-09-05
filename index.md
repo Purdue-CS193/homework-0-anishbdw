@@ -15,11 +15,13 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- First bullet
+- Second bullet
+- Third bullet
 
-1. Numbered
-2. List
+1. First item
+2. Second item
+3. Third item
 
 **Bold** and _Italic_ and `Code` text
 
